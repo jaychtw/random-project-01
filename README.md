@@ -2,6 +2,8 @@
 
 **Find the light. Bring it home.**
 
+**[Play Tidelight · 開始遊戲](https://jaychtw.github.io/random-project-01/)**
+
 A small, complete browser game about being a lighthouse keeper on a quiet sea. Rotate mirrors to carry a golden beam across seven hand-crafted sea charts. Wake every island, guide the light into the harbor, and receive a letter from someone on the other shore.
 
 Original canvas artwork, animated water, synthesized musical notes, and a seven-chapter story. Fully bilingual in English and Traditional Chinese (繁體中文), including every letter, hint, and accessible control label. No accounts, backend, API keys, external assets, or runtime network requests. Built with JavaScript, Canvas 2D, and Vite.
